@@ -1,0 +1,29 @@
+
+
+.left{
+	background-color: red;
+	width: 100px;
+	float:left;
+}
+
+.main{
+	background-color: green;
+	width: 600px;
+	float:left;
+}
+
+.right{
+	background-color: orange;
+	width: 100px;
+	float:left;
+}
+
+.mainbox{
+	background-color: purple;
+	width: 800px;
+	margin:0 auto;
+}
+.header{
+	width:800px;
+	background-color: blue;
+}
